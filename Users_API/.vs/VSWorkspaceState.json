@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\UserManagement",
+    "\\UserManagement\\Controllers",
+    "\\UserManagement\\Models"
+  ],
+  "SelectedNode": "\\UserManagement\\Models\\ApplicationDbContext.cs",
+  "PreviewInSolutionExplorer": false
+}
